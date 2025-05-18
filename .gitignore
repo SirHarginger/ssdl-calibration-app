@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Database
+*.sql
+*.sqlite
+
+# Whoosh
+search_index/index/*
+
+# Docker
+*.log
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# Miscellaneous
+*.bak
+*.swp
+*.DS_Store
